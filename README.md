@@ -2,6 +2,14 @@
 ### Live Site Link Netlify : https://rana-auth-project.netlify.app/
 ### Live Site Link Firebase : https://rana-auth.web.app/
 
+* build login and registration form 
+* about page
+* blog page create 
+* firebase deploy
+* netlify deploy
+* q & a write
+* bootstrap use
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
