@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import Services from '../Services/Services';
 
 
 function Checkout() {
@@ -27,7 +28,9 @@ function Checkout() {
   return (
     <div>
         <div>Checkout</div>
-        <div>service</div>
+        <div>
+            <Services></Services>
+        </div>
         <div>Checkout info</div>
         <form onSubmit={handleCreateUser}>
            <input onBlur={handleNameBlur} type="text" placeholder='your name' required/> <br/>
